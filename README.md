@@ -9,3 +9,9 @@ Idk just posted source feel free to use it <3 pls give cc when using it in ur se
 
 # For Da Skids
 Your mom.
+
+
+
+
+# Updates
+Gonna add more/better commands but ONLY if this will blow up UwU.
