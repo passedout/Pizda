@@ -313,6 +313,6 @@ client.run('BOTS TOKEN IN HERE!!!!!')
 
 
 
-#####ALL Rights Reserved To Ratsuyo#0001 <3 | Github = @nunfamous <3
+#####ALL Rights Reserved To Ratsuyo#0001 <3 | Github = @user2bad <3
 
 ## Don't check the imports :crying_lmfao: i was in vc trolling and coding the bot xD
