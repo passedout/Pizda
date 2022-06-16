@@ -55,7 +55,7 @@ async def on_ready():
 ██████╔╝██║  ███╔╝ ██║  ██║███████║█████╗███████╗█████╔╝ ██║██║  ██║
 ██╔═══╝ ██║ ███╔╝  ██║  ██║██╔══██║╚════╝╚════██║██╔═██╗ ██║██║  ██║
 ██║     ██║███████╗██████╔╝██║  ██║      ███████║██║  ██╗██║██████╔╝
-╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝      ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ By @nunfamous\n\n{client.user} = Online | Prefix = /\n\n""", Colors.red_to_yellow, interval=0.000001)
+╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝      ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝ By @GotRipped\n\n{client.user} = Online | Prefix = /\n\n""", Colors.red_to_yellow, interval=0.000001)
 
 
 @slash.slash(description="We know the game and we're gonna play it.")
