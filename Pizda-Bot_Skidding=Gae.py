@@ -313,8 +313,8 @@ client.run('BOTS TOKEN IN HERE!!!!!')
 
 
 
-#####ALL Rights Reserved To lex <3 | Github = @GotRipped <3
+#####ALL Rights Reserved To Gingest <3 | Github = @clownist <3
 #Current Dc server: discord.gg/vcc & discord.gg/termsofservice
-#Telegram $~~> print("https://t.me/spaceyes + t.me/discordfanclub")
+#Telegram $~~> print("https://t.me/Gingest + t.me/tosviolators")
 
-## Don't check the imports :crying_lmfao: i was in vc trolling and coding the bot xD
+## Don't check the imports :crying_lmfao:
