@@ -313,8 +313,8 @@ client.run('BOTS TOKEN IN HERE!!!!!')
 
 
 
-#####ALL Rights Reserved To Gingest <3 | Github = @clownist <3
-#Current Dc server: discord.gg/vcc & discord.gg/termsofservice
+#####ALL Rights Reserved To Gingest <3 | Github = @lemmebe <3
+#Current Dc server: discord.gg/vcc & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
 #Telegram $~~> print("https://t.me/Gingest + t.me/tosviolators")
 
 ## Don't check the imports :crying_lmfao:
