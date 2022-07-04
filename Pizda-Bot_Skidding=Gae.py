@@ -313,7 +313,7 @@ async def help(ctx):
 
 
 
-#####ALL Rights Reserved To Gingest <3 | Github = @lemmebe <3
+#####ALL Rights Reserved To Struukz <3 | Github = @AbsoluteStruukz <3
 #Current Dc server: discord.gg/vcc & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
 #Telegram $~~> print("https://t.me/lemmekms + t.me/tosviolators")
 
