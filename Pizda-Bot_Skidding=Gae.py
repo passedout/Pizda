@@ -313,9 +313,9 @@ async def help(ctx):
 
 
 
-#####ALL Rights Reserved To Struukz <3 | Github = @AbsoluteStruukz <3
-#Current Dc server: discord.gg/vcc & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
-#Telegram $~~> print("https://t.me/lemmekms + t.me/tosviolators")
+#####ALL Rights Reserved To Hazy <3 | Github = @whoresmad <3
+#Current Dc server: discord.gg/broke & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
+#Telegram $~~> print("https://t.me/riphoe + t.me/tosviolators")
 
 #~#~## Don't check the imports :crying_lmfao:
 
