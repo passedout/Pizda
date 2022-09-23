@@ -13,5 +13,9 @@ Your mom.
 
 
 
-# Updates
-Gonna add more/better commands but ONLY if this will blow up UwU.
+~# Updates~
+~Gonna add more/better commands but ONLY if this will blow up UwU.~
+
+# Haram
+
+I will not post updates of my bot(s) cause i respect my work and yes i will be a dickhead cuz u gae & go make ur own shit lol.
