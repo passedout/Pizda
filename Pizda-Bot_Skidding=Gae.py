@@ -314,7 +314,7 @@ async def help(ctx):
 
 
 #####ALL Rights Reserved To beam <3 | Github = @b4am <3
-#Current Dc server: discord.gg/feared & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
+#Current Dc server: discord.gg/stub & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
 #Telegram $~~> print("https://t.me/boobjob + t.me/tosviolators")
 
 #~#~## Don't check the imports :crying_lmfao:
