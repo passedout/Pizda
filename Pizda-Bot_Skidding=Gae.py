@@ -313,8 +313,8 @@ async def help(ctx):
 
 
 
-#####ALL Rights Reserved To exte <3 | Github = @passedout <3
-#Current Dc server: discord.gg/logger & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
+#####ALL Rights Reserved To atx <3 | Github = @passedout <3
+#Current Dc server: discord.gg/rtx & discord.gg/termsofservice <~~ maybe taken by some nft faggot :|
 #Telegram $~~> print("https://t.me/boobjob + t.me/tosviolators")
 
 #~#~## Don't check the imports :crying_lmfao:
