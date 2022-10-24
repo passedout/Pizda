@@ -313,7 +313,7 @@ async def help(ctx):
 
 
 
-#####ALL Rights Reserved To atx <3 | Github = @passedout <3
+#####ALL Rights Reserved To Karma <3 | Github = @passedout <3
 #Telegram $~~> print("https://t.me/boobjob + t.me/tosviolators")
 
 #~#~## Don't check the imports :crying_lmfao:
